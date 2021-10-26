@@ -1,5 +1,5 @@
 # bierbrouwers
 project bierbrouwers dashboard
 
-lars ijntema
-kevin kamstra
+Lars ijntema
+Kevin Kamstra
